@@ -9,7 +9,7 @@ I'm currently a second-year student pursuing a Bachelor's degree in Computer Sci
 - 🐍 Experienced in programming with Python and C
 
 ## 💼 Let's Connect!
-- 📧 Email: [ujjwal.vats.csea.2022@miet.ac.in](ujjwal.vats.cseai.2022@miet.ac.in)
+- 📧 Email: [ujjwal.vats.cseai.2022@miet.ac.in](ujjwal.vats.cseai.2022@miet.ac.in)
 - 🔗 LinkedIn: [linkedin.com/in/ujjwal-vats](https://www.linkedin.com/in/ujjwal-vats-0aaa94250/)
 
 I'm always eager to collaborate and discuss cybersecurity, programming, or anything tech-related. Let's connect and explore opportunities together!
